@@ -16,7 +16,7 @@
 
 
 
-当前版本：3.0.8
+当前版本：3.0.9
 
 [🔥 充电平台微服务源码](https://github.com/roinli/huige-ChargeOS-cloud)
 
